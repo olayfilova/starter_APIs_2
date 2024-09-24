@@ -1,0 +1,14 @@
+# Ignore Python bytecode files
+__pycache__/
+*.py[cod]
+
+# Ignore logs, environment files, and system files
+*.log
+.env
+
+# Ignore compiled CSS (if using SASS/LESS)
+*.css.map
+
+# Node_modules (if you ever include Node.js)
+node_modules/
+
